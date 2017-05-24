@@ -1,1 +1,3 @@
 # Microprocessor-Optimization-for-IoT
+
+In this paper, I look into many types of architectures for edge computing based on the executing applications and the characteristics of applications execution. I also discuss the characteristics of micro-architecture of different types of low-powered processors based around the results of other researchers using the GEM5 architecture simulations. Lastly, I evaluate where these processors stand in edge computing regarding the Internet of Things and discuss what tradeoffs should be expected in micro-architectural optimizations that will enable the design of a good Internet of Things microprocessor architecture.
